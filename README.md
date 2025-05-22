@@ -219,3 +219,10 @@ python build_discrete_trades.py --input ./data/btcusdt-trades.parquet --output .
 ## Заключение
 
 Этот проект демонстрирует возможности PySpark для анализа текстовых данных на русском языке, включая сложные фильтрации и агрегации. Реализованные задачи охватывают различные аспекты лингвистического анализа.
+![image](https://github.com/user-attachments/assets/735764f6-e91c-4a2b-84f3-a920c1bcd6ce)
+![image](https://github.com/user-attachments/assets/a6b21e5d-e378-497a-b85d-3dfa9aa3c427)
+![image](https://github.com/user-attachments/assets/156baf74-fdca-4fa8-ab8d-4eea5cac2cc3)
+![image](https://github.com/user-attachments/assets/cc471bfc-2d53-4e45-873c-4c1bb72b2b05)
+
+
+
